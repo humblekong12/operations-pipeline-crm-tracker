@@ -1,0 +1,5 @@
+Record_ID,Customer_Name,Contact_Phone,Order_Details,Pipeline_Stage,Priority,Follow_Up_Notes,Timestamp
+B001,John Doe,+1-555-0192,5x Sourdough Loaves,5. Completed,Medium,Delivered on time. Customer satisfied.,2026-10-26 08:30
+B002,Jane Smith,+1-555-0143,10x Brioche Buns,4. Logistics & Delivery,High,Rescheduled delivery window from AM to PM per request.,2026-10-26 09:15
+B003,Alice Johnson,+1-555-0177,2x Whole Wheat Loaves,2. Production,Low,Standard order. On track.,2026-10-26 10:00
+B004,Bob Miller,+1-555-0155,1x Custom Pastry Tray,1. Intake,High,Missed first call. Left voicemail to confirm delivery address.,2026-10-26 11:10
